@@ -1,0 +1,4 @@
+interface:
+  display_name: "产品广告分镜与视频"
+  short_description: "先建立统一白底产品资产，再制作场景分镜、逐镜提示词和广告视频"
+  default_prompt: "请先建立产品白底资产，展示场景分镜和逐镜提示词，确认后再生成视频。"
